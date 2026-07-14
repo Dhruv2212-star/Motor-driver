@@ -1,0 +1,12 @@
+Reference,Qty,Value,Footprint
+C1,1,"470 µF, 25 V",Capacitor_THT:CP_Radial_D10.0mm_P5.00mm
+C2,1,"100 nF, 50 V",Capacitor_SMD:C_0805_2012Metric
+"C3,C4",2,100 nF,Capacitor_SMD:C_0805_2012Metric
+C5,1,"10 µF, 25 V",Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+D1,1,SMBJ15A,Diode_SMD:D_SMB
+F1,1,MF-R250,Fuse:Fuse_Bourns_MF-RG300
+"J1,J3,J4",3,Screw_Terminal_01x02,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+J2,1,Conn_01x09_Pin,Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical
+Q1,1,AO3407A,Package_TO_SOT_SMD:SOT-23
+R1,1,"100 kΩ, 1%",Resistor_SMD:R_0805_2012Metric
+U1,1,TB6612FNG,Package_SO:SSOP-24_5.3x8.2mm_P0.65mm
