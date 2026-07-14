@@ -32,6 +32,6 @@ The Motor Driver System receives logic commands from an external microcontroller
 | **C4** | Motor Supply Decoupling Capacitor | 100 nF Ceramic                  | C4 filters high-frequency switching noise present on the motor supply (VM). It is positioned close to the motor driver IC to minimize voltage spikes caused by the rapid switching of the internal MOSFETs.                                                                                                              |
 | **C5** | Bulk Motor Supply Capacitor       | 10 µF, 25 V Electrolytic        | C5 provides additional local energy storage directly beside the motor driver IC. During sudden motor current demands, it supplies instant current to the TB6612FNG, helping maintain a stable VM supply and reducing voltage dips on the PCB.                 
 
-# note- Ai used for the table format 
+
 
 
